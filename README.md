@@ -29,8 +29,8 @@ My goal for this project was to refine my skills in Tableau while honing my data
 
 1. Question 1:
    * Neighbourhood: Manhattan
-   * Property Type:
-   * Room Type:
+   * Property Type: Chalet
+   * Room Type: Entire home/apt.
 2. Question 2:
    * Average bang for your buck has decreased over time from a peak of 34.5 in March 2009 to 27.7 in August 2015
 3. Question 3:
